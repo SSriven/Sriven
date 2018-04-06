@@ -19,7 +19,7 @@ namespace Sriven
 
         private void button1_Click(object sender, EventArgs e)
         {
-            gefrgr
+            Application.Exit();
         }
     }
 }
