@@ -37,6 +37,7 @@ namespace Sriven
 
         private void button2_Click(object sender, EventArgs e)
         {
+
             Form frm2 = new Form2();
             frm2.Show();
             this.Hide();
