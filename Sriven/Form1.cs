@@ -40,6 +40,7 @@ namespace Sriven
 
             Form frm2 = new Form2();
             frm2.Show();
+
             this.Hide();
         }
     }
